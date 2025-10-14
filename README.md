@@ -48,5 +48,5 @@
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/your-username/LeetLens.git
+   git clone https://github.com/ankit-prabhavak/LeetLens.git
    cd LeetLens
