@@ -7,7 +7,6 @@
 
 ## 📸 Preview
 
-*(Add your full-page screenshot here after capturing it)*  
 ![Web Page Screenshot](leetlens.png)
 
 ---
@@ -44,7 +43,7 @@
 
 ---
 
-## 💻 Usage
+## Usage
 
 1. Clone the repo:
 
