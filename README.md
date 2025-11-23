@@ -1,7 +1,7 @@
 # 💡 LeetLens
 
 > **Code Like Nobody’s Watching.**  
-> LeetLens is your playful **DSA companion** that helps you track your **LeetCode stats**, view progress visually, and stay motivated with random DSA quotes.
+> LeetLens is your playful **DSA companion** that helps you track your **LeetCode stats**, view progress visually, and stay motivated with random DSA motivational quotes.
 
 ---
 
