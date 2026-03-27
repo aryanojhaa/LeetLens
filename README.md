@@ -5,12 +5,6 @@
 
 ---
 
-## 📸 Preview
-
-![Web Page Screenshot](leetlens.png)
-
----
-
 ## Features
 
 - **Search any LeetCode user** and fetch live stats using the LeetCode Stats API  
