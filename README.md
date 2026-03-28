@@ -7,7 +7,7 @@
 
 ## 📸 Preview
 
-![Web Page Screenshot](leetlens.png)
+![Web Page Screenshot](Screenshot.png)
 
 ---
 
